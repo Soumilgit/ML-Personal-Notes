@@ -1,4 +1,4 @@
-# ML-Personal-Notes  
+# ML Notes
 
 A collection of concise, topic-wise notes on Machine Learning.  
 Each topic is documented in a single file that brings together:  
