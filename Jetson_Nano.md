@@ -1,9 +1,5 @@
-Here are **well-formatted notes on the NVIDIA Jetson Nano** tailored for quick reference and easy revision. This covers key concepts, setup, and usage commonly sought by students and developers.
-
-***
-
 ## **NVIDIA Jetson Nano – Quick Notes**
-
+<img width="1900" height="1460" alt="image" src="https://github.com/user-attachments/assets/8fc5efef-93be-46f6-afb9-6a7268bb19da" />
 ### **1. Overview**
 - **Jetson Nano** is a small, powerful single-board computer by NVIDIA for edge AI applications.
 - **CPU:** Quad-core ARM Cortex-A57
@@ -22,6 +18,7 @@ Here are **well-formatted notes on the NVIDIA Jetson Nano** tailored for quick r
 - microSD card (16GB+ UHS-1 recommended) – for non-eMMC model
 - Power source: 5V/2A (micro-USB) or 5V/4A (DC barrel jack)
 - Peripherals: monitor (HDMI/DP), mouse, keyboard
+<img width="905" height="408" alt="image" src="https://github.com/user-attachments/assets/df247ea6-f8ff-4ae7-ba16-4a70c31fa537" />
 
 #### **B. Software Installation**
 1. **Download JetPack/Image:**
@@ -90,5 +87,3 @@ project/
 ```
 
 ***
-
-Let me know if you need **notes on specific libraries, projects, or troubleshooting Jetson Nano issues**!
