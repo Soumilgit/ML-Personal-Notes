@@ -1,5 +1,6 @@
 ## **NVIDIA Jetson Nano – Quick Notes**
 <img width="1900" height="1460" alt="image" src="https://github.com/user-attachments/assets/8fc5efef-93be-46f6-afb9-6a7268bb19da" />
+
 ### **1. Overview**
 - **Jetson Nano** is a small, powerful single-board computer by NVIDIA for edge AI applications.
 - **CPU:** Quad-core ARM Cortex-A57
