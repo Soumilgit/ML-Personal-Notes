@@ -1,6 +1,6 @@
 # ML Notes
 
-A collection of concise, topic-wise notes on Machine Learning.  
+A collection of concise, topic-wise notes and few code samples on Machine Learning.  
 Each topic is documented in a single file that brings together:  
 
 - Mathematical foundations: equations, derivations, and step-by-step explanations.  
